@@ -1,8 +1,8 @@
-#Vérifier l’intégrité
+# Vérifier l’intégrité
 
 Je vérifie l’intégrité du fichier OVA afin de m’assurer qu’il n’est pas corrompu et qu’il peut être utilisé correctement.
 ![](https://github.com/user-attachments/assets/40b007a2-98ab-4d95-819a-ccf2a1154556)
-#Importer l’OVA dans VirtualBox/VMware
+# Importer l’OVA dans VirtualBox/VMware
 
 J’importe le fichier OVA dans VirtualBox/VMware pour créer la machine virtuelle Mobexler.
 ![](https://github.com/user-attachments/assets/97b17d72-8319-4b42-9aff-9d9bac4c2711)
