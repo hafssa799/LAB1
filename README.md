@@ -35,9 +35,11 @@ Je vérifie la route par défaut afin de m’assurer que le trafic réseau peut 
 
 ![](https://github.com/user-attachments/assets/ce91f805-64da-443d-bbd7-2522208252d1)
 
-# Tester Internet
+# Tester de la connexion Internet
 
 Je teste la connexion Internet pour confirmer que l’accès fonctionne correctement.
+
+Le succès de ce test montre que la machine virtuelle dispose d’un accès Internet fonctionnel.
 
 ![](https://github.com/user-attachments/assets/4e3db2fa-5fa7-40d4-aaf5-2d64430bd2c1)
 ![](https://github.com/user-attachments/assets/692c01ff-b01e-4801-a041-f56804e78f02)
@@ -46,6 +48,7 @@ Je teste la connexion Internet pour confirmer que l’accès fonctionne correcte
 
 Je crée un snapshot nommé CLEAN pour conserver un état propre et stable de la machine.
 
+afin de pouvoir y revenir rapidement en cas de problème ou de mauvaise manipulation.
 ![](https://github.com/user-attachments/assets/24958660-1af7-42a7-af07-7e02d0603a53)
 
 
