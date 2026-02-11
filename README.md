@@ -52,7 +52,7 @@ Je crée un snapshot nommé CLEAN pour conserver un état propre et stable de la
 # Connecter ADB
 
 Je connecte ADB afin de permettre la communication entre Mobexler et l’appareil Android.
-
+ADB est essentiel pour analyser, tester et interagir avec les applications Android dans un environnement contrôlé.
 ![](https://github.com/user-attachments/assets/0f94ac54-715e-4c2c-80b9-e57482f97209)
 
 
